@@ -1,4 +1,7 @@
 
+
+Security: after environment setup/sync, check Pillow’s bundled Brotli decoder; see [CVE-2026-111497 remediation](docs/BROTLI_SECURITY.md).
+
 # On the Effect of Pre-training for Transformer in Different Modality on Offline Reinforcement Learning 
 This repository contains the code for *"On the Effect of Pre-training for Transformer in Different Modality on Offline Reinforcement Learning"*. The LaTeX source for our paper is availabe at https://github.com/t46/paper-pre-training-different-modality-offline-rl.
 
